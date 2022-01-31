@@ -1,3 +1,3 @@
 # LinearLayoutExample
+<p><img wdith "100" height="240" src="https://1000logos.net/wp-content/uploads/2020/09/Java-Logo.png"></p>
 <p><img align="center" alt="GIF" src="https://github.com/veelected/LinearLayoutExample/blob/master/giphy.gif?raw=true" width="500" height="350" /></p>
-<img width="400" height="400" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/cpp/cpp.png">
